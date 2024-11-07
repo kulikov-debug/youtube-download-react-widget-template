@@ -1,1 +1,1 @@
-# youtube-download-react-widget-template
+# youtube-download-react-button-template
